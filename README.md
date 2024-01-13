@@ -1,3 +1,5 @@
+![page](https://github.com/DarkAbhi/cv/assets/22658573/00c93710-2d60-4edf-bf0e-64a218c99136)
+
 # Minimalist CV
 
 Simple web app that renders minimalist CV with print-friendly layout.
